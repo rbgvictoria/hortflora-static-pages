@@ -1,2 +1,2 @@
 # vicflora-static-pages
-Static pages for VicFlora
+Static pages for HortFlora
