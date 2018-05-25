@@ -50,4 +50,4 @@ HortFlora (2018). Cultivated Flora of South-eastern Australia, Royal Botanic Gar
 
 ## Enquiries and Feedback
 
-Enquiries about copyright, and suggestions for improving VicFlora, including usability of the website, new plant records and improvements to keys or descriptions should be submitted via email to [vicflora@rbg.vic.gov.au](mailto:vicflora@rbg.vic.gov.au?subject=User%20feedback%20on%20HortFlora).
+Enquiries about copyright, and suggestions for improving VicFlora, including usability of the website, new plant records and improvements to keys or descriptions should be submitted via email to [hortflora1@rbg.vic.gov.au](mailto:hortflora1@rbg.vic.gov.au?subject=User%20feedback%20on%20HortFlora).
